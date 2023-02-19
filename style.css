@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+   
+}
+header{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(83, 64, 64);
+    position: fixed;
+    width: 100%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+    font-size: 20px;
+    display: inline-block;
+    
+    
+}
+a:hover{
+    background-color: rgb(156, 153, 153);
+}
+
+.fa-house-user{
+    font-size: 12px;
+}
+.fa-search{
+    color: white;
+    padding-top: 10px;
+    padding-right: 10px;
+    }
+    .logo{
+       background-color:#009688 ;
+        
+    }
+    .parent-link{
+        background-color: rgb(48, 32, 32);
+        width: 130px;
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        margin-left: 415px;
+        visibility: hidden;
+        }
+        .drop:hover + .parent-link {
+            visibility: visible;
+        }
+        .item:hover{
+            visibility: visible;
+            
+        }
+
+    
+
+
+
+        
+        .main-img{
+            width: 100%;
+            height: 350px;
+           
+        
+        }
+        .learn-css{
+            color: white;
+            border: 2px solid red;
+            position: relative;
+            bottom: 70px;
+            left: 50px;
+            background-color: black;
+           
+         
+        }
+
+        .our,.meet{
+            text-align: center;
+           padding: 14px;
+        }
+        .main{
+        display: flex;
+        justify-content: space-around;
+        
+        }
+
+
+    .div{
+
+      text-align: center;
+      margin: 50px;
+
+    }
+        .joh{
+           
+         
+            border-radius: 50%;
+           margin: 15px 10px 0 0;
+
+            
+        }
+
+        .h-joh{
+            margin: 10px 0;
+        }
+        .gray{
+            display: flex;
+            justify-content: space-around;
+            background-color: #333333;
+            
+          
+           
+        }
+
+
+        .lorem{
+           
+           
+           background-color: #333333;
+            text-align: start;  
+            padding: 20px;
+            margin: 60px;
+            width: 25%;
+            color: white;
+            line-height: 30px;
+              }
+
+              .lorem h1 {
+                  margin: 20px;
+
+              }
+
+              .wight{
+                  background-color: white;
+                   
+               margin: 5px;
+                 height: 500px;
+                 width: 24%;
+                 line-height: 30px;
+
+              }
+              .wight h1 , p{
+                  margin: ;
+
+              }
+              .img-wight{
+                  width:100%;
+                  height: 210px;
+                
+              }
+
+              .wight h1,p{
+
+                padding-left: 10px;
+              }
+            
+                
+              .pri{
+                  text-align: center;
+                  margin-top: 90px
+              }
+              .bas{
+                  width:30%;
+                  text-align: center;
+                  margin-top: 60px;
+            }
+                  .bas:hover{
+                      box-shadow: 5px 5px 25px gray;
+                  }
+            .bas h4{
+            background-color: black;
+            color: white;
+            padding: 17px 0;
+        
+            }
+
+            .bas p{
+                border: 1px solid gray;
+                padding: 10px.0;
+            }
+
+
+            .sign{
+                background-color: #009688;
+                margin-top: 10px 0;
+           
+            }
+
+           
+               .basic{
+              display: flex;
+             justify-content: space-around;
+            
+           
+
+               }
+
+.form{
+    background-color: rgb(197, 194, 194);
+    margin-top: 100px;
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-around;
+    
+   
+
+}
+.Contac-Us h1{
+
+    border-bottom: 4px solid rgb(7, 75, 75);
+    display: inline-block;
+}
+
+.Contac-Us{
+  
+    line-height: 50px;
+    width: 30% ;
+    padding-left: 10px;
+
+}
+
+.rel  {
+   
+    width: 50%;
+ background-color: white;
+ padding-left: 19px ;
+padding-top: 20px;
+  
+}   
+input{
+    border: none;
+    border-bottom:1px solid #b2b8b7;
+    width: 97%;
+    height: 30px;
+}
+.chec{
+    width: 20px;
+}
+.send{
+    background-color: black;
+    color: white;
+   padding: 10px 20px;
+   float: right;
+   margin-right: 20px;
+  border: 1px solid black;
+    
+    text-align: center;
+
+
+    
+}
+
+.chec-i{
+    position: relative;
+    bottom: 10px;
+    
+}
+.follow{
+    background-color: black;
+    color: white;
+  text-align: center;
+   height: 200px;
+  
+  padding: 70px;
+  
+}
+
+.follow p{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+
+}
+
+.follow a{
+  
+    background-color: rgb(39, 38, 38);
+    font-size: 25px;
+    margin-bottom: 15PX;
+}
+
+.follow a:hover{
+    background-color: gray;
+}
+
+   
+
+              
+            
+                
+
+
+              
+           
